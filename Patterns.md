@@ -1,6 +1,5 @@
 # Star triangle
 https://www.naukri.com/code360/problems/star-triangle_6573671?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_patternproblems&leftPanelTabValue=PROBLEM
-![image](https://github.com/user-attachments/assets/752faa64-5d28-456d-a9a3-e9e8d60d67f3)  
 ### My solution
 ```cpp
 void nStarTriangle(int n) {
@@ -18,7 +17,6 @@ void nStarTriangle(int n) {
 ---
 # Reverse Star triangle
 https://www.naukri.com/code360/problems/reverse-star-triangle_6573685?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_patternproblems&leftPanelTabValue=SUBMISSION
-![image](https://github.com/user-attachments/assets/a8215890-3cc0-4549-b606-8ddd166a73cf)
 ### My solution
 ```cpp
 void nStarTriangle(int n) {
@@ -36,7 +34,6 @@ void nStarTriangle(int n) {
 ---
 # Star Diamond
 https://www.naukri.com/code360/problems/star-diamond_6573686?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_patternproblems
-![image](https://github.com/user-attachments/assets/9dafc855-6290-42bd-9e78-5f6856a62644)
 ### My original solution
 ```cpp
 void nStarDiamond(int n) {
@@ -71,7 +68,6 @@ void printDiamond(int n) {
 ---
 # Binary Number Triangle
 https://www.naukri.com/code360/problems/binary-number-triangle_6581890?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_patternproblems
-![image](https://github.com/user-attachments/assets/d7265cd1-d2b8-435a-9842-7511d392e7ba)
 ### My solution
 ```cpp
 void nBinaryTriangle(int n) {
@@ -89,7 +85,6 @@ void nBinaryTriangle(int n) {
 ```
 # Number Crown
 https://www.naukri.com/code360/problems/number-crown_6581894?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_patternproblems
-![image](https://github.com/user-attachments/assets/fc2fbbd6-19ad-40c7-b54b-8ab5137bfb79)
 ### My solution
 ```cpp
 void numberCrown(int n) {
